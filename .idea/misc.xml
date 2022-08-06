@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/workspaces/GitHubPortfolio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14" />
+        <entry key="..\:/workspaces/GitHubPortfolio/app/src/main/res/drawable/ic_baseline_arrow_back.xml" value="0.14" />
+        <entry key="..\:/workspaces/GitHubPortfolio/app/src/main/res/drawable/ic_baseline_search.xml" value="0.14" />
+        <entry key="..\:/workspaces/GitHubPortfolio/app/src/main/res/drawable/ic_baseline_star_rate.xml" value="0.14" />
+        <entry key="..\:/workspaces/GitHubPortfolio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14" />
         <entry key="..\:/workspaces/GitHubPortfolio/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/workspaces/GitHubPortfolio/app/src/main/res/layout/item_repo.xml" value="0.18840579710144928" />
       </map>
     </option>
   </component>
