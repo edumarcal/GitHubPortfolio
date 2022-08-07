@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Repositórios do usuário</string>
+    <string name="search">Pesquisa</string>
+    <string name="search_hint">Pesquisa o usuário</string>
+    <string name="remote_exception">Não foi possível realizar a busca no momento.</string>
 </resources>
