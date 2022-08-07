@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
         val closeIcon = searchView.findViewById(androidx.appcompat.R.id.search_close_btn) as ImageView
         closeIcon.setColorFilter(ContextCompat.getColor(this, R.color.white), android.graphics.PorterDuff.Mode.SRC_IN);
 
-        searchPlate.hint = R.string.search_hint.toString()
+        searchPlate.hint = applicationContext.getString(R.string.search_hint)
 
         searchView.setOnQueryTextListener(this)
 
